@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundands/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/kundands/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kundands/LeetCode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -24,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kundands/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kundands/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
