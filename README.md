@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kundands/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kundands/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kundands/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/kundands/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kundands/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kundands/LeetCode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kundands/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
