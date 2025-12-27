@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kundands/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kundands/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundands/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kundands/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/kundands/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kundands/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kundands/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/kundands/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -67,16 +69,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kundands/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kundands/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kundands/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/kundands/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kundands/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundands/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kundands/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kundands/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
