@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kundands/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kundands/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/kundands/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kundands/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/kundands/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kundands/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Database
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kundands/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kundands/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kundands/LeetCode/tree/master/0724-find-pivot-index) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/kundands/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
