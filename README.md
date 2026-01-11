@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kundands/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundands/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kundands/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundands/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundands/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kundands/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kundands/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundands/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundands/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundands/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundands/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
