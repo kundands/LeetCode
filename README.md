@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kundands/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kundands/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kundands/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/kundands/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundands/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kundands/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kundands/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundands/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/kundands/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kundands/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kundands/LeetCode/tree/master/0724-find-pivot-index) |
 ## Geometry
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kundands/LeetCode/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kundands/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
