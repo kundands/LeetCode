@@ -1,11 +1,13 @@
 class Solution(object):
     def missingNumber(self, nums):
-        nums.sort()
-        for i in range(len(nums)):
-            if i != nums[i]:
-                return i
-            if i == len(nums)-1:
-                return i+1 
+        n = len(nums)
+        loop_sum = 0
+        result = 0
+        for i in range(0, n+1):
+            loop_sum += i
+            if i < n:
+                result += nums[i]
+        return loop_sum - result
             
 
         
